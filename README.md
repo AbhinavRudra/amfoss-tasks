@@ -21,7 +21,7 @@ Quantum computing also grabs my interest. I would like to know more about the co
 | [Task-09](https://github.com/AbhinavRudra/amfoss-tasks/tree/master/Task-09)  | GeoQuest                    | Not Attempted       |
 | [Task-10](https://github.com/AbhinavRudra/amfoss-tasks/tree/master/Task-10)  | RuskOS                      | Completed           |
 | [Task-11](https://github.com/AbhinavRudra/amfoss-tasks/tree/master/Task-11)  | TinkerCad                   | Completed           |
-| [Task-14](https://github.com/AbhinavRudra/amfoss-tasks/tree/master/Task-14)  | Vim                         | Completed           |
+| [Task-13](https://github.com/AbhinavRudra/amfoss-tasks/tree/master/Task-13)  | Vim                         | Completed           |
 
 
 ## WHY MUST YOU CHOOSE ME?
