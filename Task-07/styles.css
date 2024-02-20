@@ -1,0 +1,92 @@
+body{
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 20px;
+  background: rgb(250, 250, 250,0.85);
+  font-family: 'JetBrains Mono';
+  width: 275px;
+  height: 325px;
+  padding: 1rem 1rem 1rem 1rem;
+  
+}
+
+img{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+p.cityName {
+  margin-top: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+p.description {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  font-weight: bold;
+}
+
+.location span{
+  font-size: 1.7em;
+}
+
+
+.temp {
+  display: flex;
+  flex-direction: row;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #1e2432;
+  text-align: center;
+}
+.temp_feel_like {
+  display: flex;
+  flex-direction: row;
+  font-size: 1.1rem;
+  margin-top: 10px;
+  color: #1e2432;
+  text-align: center;
+}
+.search-bar{
+  padding: 20px;
+}
+
+.search{
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+  border-radius: 6px;
+  border: 1px solid rgb(0, 0, 0);
+  height: 30px;
+  width: 200px;
+  margin-right: 10px;    
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  left: 10px;
+
+  margin-bottom: 5px;
+
+
+}
+.click{
+  height: 30px;
+  width: auto;
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 5px 5px 5px 5px;
+  position: fixed;
+  bottom: 0;
+  right: 10px;
+
+  margin-bottom: 5px;
+  
+}
